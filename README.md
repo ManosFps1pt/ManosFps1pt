@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm the programmer of the FTC team #25070 Talos Edurobots<br>I play the piano<br>Many distinctions in the HMS<br>Python data analisist and visualist<br>Python game developer with pygame<br>Experience in Fusion 360<br>I play tennis<br>
+🤖Programmer of the FTC team #25070 Talos Edurobots<br>🎹Piano<br>➗distinctions in the HMS<br>🔍Python data analisist and visualist<br>🎮Python game developer with pygame<br>🧊Experience in Fusion 360<br>🎾Tennis<br>
 
 
 ## 🌐 Socials:
